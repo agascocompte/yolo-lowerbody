@@ -73,17 +73,17 @@ pip install ultralytics
 
 ## <div align="center">TFLite models</div>
 
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11n-seg-lowerbody.lite">`yolo11n-seg-lowerbody.pt`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11s-seg-lowerbody.lite">`yolo11s-seg-lowerbody.pt`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11m-seg-lowerbody.lite">`yolo11m-seg-lowerbody.pt`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11l-seg-lowerbody.lite">`yolo11l-seg-lowerbody.pt`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11x-seg-lowerbody.lite">`yolo11x-seg-lowerbody.pt`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11n-seg-lowerbody.tflite">`yolo11n-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11s-seg-lowerbody.tflite">`yolo11s-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11m-seg-lowerbody.tflite">`yolo11m-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11l-seg-lowerbody.tflite">`yolo11l-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolo11x-seg-lowerbody.tflite">`yolo11x-seg-lowerbody.tflite`</a>
 
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8n-seg-lowerbody.lite">`yolov8n-seg-lowerbody.lite`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8s-seg-lowerbody.lite">`yolov8s-seg-lowerbody.lite`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8m-seg-lowerbody.lite">`yolov8m-seg-lowerbody.lite`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8l-seg-lowerbody.lite">`yolov8l-seg-lowerbody.lite`</a>
-<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8x-seg-lowerbody.lite">`yolov8x-seg-lowerbody.lite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8n-seg-lowerbody.tflite">`yolov8n-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8s-seg-lowerbody.tflite">`yolov8s-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8m-seg-lowerbody.tflite">`yolov8m-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8l-seg-lowerbody.tflite">`yolov8l-seg-lowerbody.tflite`</a>
+<a href="https://github.com/agascocompte/yolo-lowerbody/releases/download/v1.0.0/yolov8x-seg-lowerbody.tflite">`yolov8x-seg-lowerbody.tflite`</a>
 
 ## <div align="center">YOLO11-lowerbody</div>
 
